@@ -94,6 +94,12 @@
             color: orange;
         }
         /*main*/
+        @media(max-width: 606px) {
+        main .container {
+            display: block;
+            Border: solid red 2px;
+        }
+        }
         /*footer*/
         footer .the a {
             color: white;
