@@ -98,5 +98,7 @@
         footer .the a {
             color: white;
             font-size: 50px;
+            align-items: center;
+            text-align: center;
         }
         /*footer*/
